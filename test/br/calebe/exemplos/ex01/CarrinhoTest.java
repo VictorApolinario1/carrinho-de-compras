@@ -9,7 +9,7 @@ import org.junit.Test;
 
 /**
  *
- * @author Calebe de Paula Bianchini
+ * @author Paulo Guedes
  */
 public class CarrinhoTest {
 
