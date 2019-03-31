@@ -23,7 +23,7 @@ public class CarrinhoTest {
     public static void tearDownClass() throws Exception {
     }
 
-    @Before 
+    @Before
     public void criandoCarrinho() {
         carrinho = new Carrinho();
     }
